@@ -1,4 +1,4 @@
-# Confident-CAM: : Improving Heat Map Interpretation in Chest X-Ray Image Classification
+# Confident-CAM: Improving Heat Map Interpretation in Chest X-Ray Image Classification
 
 ### Abstract
 WIP
