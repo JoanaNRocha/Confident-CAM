@@ -28,4 +28,4 @@ Data - example input image (*00000001_000.png*), pre-trained multi-label model w
 ### Credits
 If you use this code, please cite the following publication: 
 
-WIP
+WIP - to be presented and published at the IEEE International Conference on Bioinformatics and Biomedicine (BIBM, 2023).
