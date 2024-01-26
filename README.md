@@ -28,4 +28,5 @@ Data - example input image (*00000001_000.png*), pre-trained multi-label model w
 ### Credits
 If you use this code, please cite the following publication: 
 
-WIP - to be presented and published at the IEEE International Conference on Bioinformatics and Biomedicine (BIBM, 2023).
+Rocha, Joana, et al. "Confident-CAM: Improving Heat Map Interpretation in Chest X-Ray Image Classification." 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023.
+https://doi.org/10.1109/BIBM58861.2023.10386065
